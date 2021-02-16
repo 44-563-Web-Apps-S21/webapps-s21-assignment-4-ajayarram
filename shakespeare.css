@@ -1,0 +1,39 @@
+#heading{
+    color: brown;
+}
+.name{
+    font-size: 20px;
+    font:medium ;
+    color: black;
+}
+.Valentine
+{
+    font-size: 18px;
+    background-color:lightpink;
+    color:red;
+
+}
+.Proteus
+{
+    font-size: 18px;
+    background-color: greenyellow;
+    color: lightcoral;
+
+}
+.speech{
+    font-size: 15px;
+    font:normal;
+    color: black;
+}
+.stage-direction:hover
+    {
+    color:cyan;
+    background-color: coral;
+}
+.stage-direction
+    {
+        font-size:22px;
+        font:medium;
+        color: black;
+        background-color:goldenrod;
+}
