@@ -37,3 +37,26 @@
         color: black;
         background-color:goldenrod;
 }
+.table{
+    border:lightsteelblue
+    
+}
+.table-head{
+    background-color: mediumaquamarine;
+    font-size:16px;
+    color:chocolate
+}
+.table-data{
+    font-size:14px;
+    text-align: center;
+
+}
+tr:nth-child(even){
+    background-color:khaki;
+}
+tr:nth-child(odd){
+    background-color:lightskyblue;
+}
+
+
+borders, colors, and row stripes and apply it to the table.
