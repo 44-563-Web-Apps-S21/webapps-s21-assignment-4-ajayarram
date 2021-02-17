@@ -60,3 +60,19 @@ tr:nth-child(odd){
 .link-color{
     color:orangered
 }
+.name:hover{
+    text-shadow: 3px 12px 2px red;
+    padding:10px;
+    border-radius: 5px;
+
+    border-top: 2px solid #123456;
+
+    border-left: 5px solid #123456;
+    border-right: 5px solid #123455;
+    
+    border-bottom: 2px solid black; 
+    border-bottom-width: 5px;
+    border-bottom-style: ridge;
+
+
+}
